@@ -1,4 +1,7 @@
 .DS_Store
+
+src/json/*.json
+
 # Logs
 logs
 *.log

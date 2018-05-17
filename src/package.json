@@ -1,0 +1,22 @@
+{
+  "name": "bible-text-to-json",
+  "version": "1.0.0",
+  "description": "Convert the ASV Bible text files into JSON files for each verse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejangi/bible-text-to-json.git"
+  },
+  "keywords": [
+    "bible"
+  ],
+  "author": "James Angus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejangi/bible-text-to-json/issues"
+  },
+  "homepage": "https://github.com/ejangi/bible-text-to-json#readme"
+}

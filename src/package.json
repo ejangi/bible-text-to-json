@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ejangi/bible-text-to-json/issues"
   },
-  "homepage": "https://github.com/ejangi/bible-text-to-json#readme"
+  "homepage": "https://github.com/ejangi/bible-text-to-json#readme",
+  "dependencies": {
+    "glob": "^7.1.2"
+  }
 }
